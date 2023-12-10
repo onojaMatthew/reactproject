@@ -103,7 +103,6 @@ function Tasks () {
     }
   }
 
-  console.log(taskId, " the task id")
   return (
     <div>
       <Header />
